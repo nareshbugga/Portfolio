@@ -1,0 +1,69 @@
+.education-main-container {
+  background-color: rgb(15, 14, 14);
+  background-size: cover;
+  min-height: 100vh;
+}
+.education-sub-container {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+.education-container {
+  display: flex;
+  flex-direction: column;
+}
+.graduation-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: 2px dashed #84d;
+  padding: 10px;
+  margin: 25px 0px;
+  align-self: center;
+}
+.name {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 23px;
+  color: #ffffff;
+}
+.group {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 21px;
+  color: #8d4dfd;
+  display: flex;
+  justify-content: space-between;
+}
+.year-of-pass {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 550;
+  font-size: 20px;
+  color: #ffffff;
+}
+@media screen and (max-width: 767px) {
+  .name {
+    font-size: 21px;
+  }
+  .group {
+    font-size: 17px;
+  }
+  .year-of-pass {
+    font-size: 17px;
+  }
+}
+.education-link-1 {
+  margin: 25px 0px;
+  align-self: flex-start;
+}
+.education-link-2 {
+  margin: 25px 0px;
+  align-self: center;
+}
+.education-link-3 {
+  margin: 25px 0px;
+  align-self: flex-end;
+}

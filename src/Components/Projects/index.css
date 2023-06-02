@@ -1,0 +1,15 @@
+.project-main-container {
+  background-color: rgb(15, 14, 14);
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.project-link {
+  color: #c19cfe;
+  text-decoration-color: #c19cfe;
+  font-size: 18px;
+  font-family: "Arial";
+  font-weight: 500;
+  font-style: normal;
+}
