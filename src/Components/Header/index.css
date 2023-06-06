@@ -37,14 +37,14 @@
   }
 }
 .nav-link {
-  width: 80px;
+  width: 100px;
   border: 1px solid #c19cfe;
   border-radius: 5px;
   height: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 3px;
+  padding: 5px;
   color: #8d4dfd;
   font-size: 16px;
   font-family: "calibri";
@@ -67,14 +67,14 @@
   font-family: "Roboto";
 }
 .active-link {
-  width: 80px;
+  width: 100px;
   background-color: #c19cfe;
   border-radius: 5px;
   height: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 3px;
+  padding: 5px;
   color: #0f0f0f;
   font-size: 16px;
   font-family: "calibri";

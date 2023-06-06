@@ -1,6 +1,5 @@
 .contact-main-container {
-  background-image: url("https://res.cloudinary.com/dqrp5aeqy/image/upload/v1685683027/Insurance-Leadspace-Aniamted_fhksct.gif");
-  background-repeat: no-repeat;
+  background-color: rgb(15, 14, 14);
   background-size: cover;
   height: 100vh;
 }

@@ -4,6 +4,7 @@ import Education from "./Components/Education";
 import Skills from "./Components/Skills";
 import Projects from "./Components/Projects";
 import Contact from "./Components/Contact";
+import Achievements from "./Components/Achievements";
 
 import "./App.css";
 
@@ -17,6 +18,7 @@ const App = () => {
           <Route exact path="/skills" Component={Skills} />
           <Route exact path="/projects" Component={Projects} />
           <Route exact path="/contact" Component={Contact} />
+          <Route exact path="/achievements" Component={Achievements} />
         </Routes>
       </BrowserRouter>
     </>
