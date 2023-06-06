@@ -6,7 +6,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0px 80px;
+  margin: 0px 60px;
 }
 @media screen and (max-width: 767px) {
   .nav {
@@ -37,7 +37,7 @@
   }
 }
 .nav-link {
-  width: 110px;
+  width: 120px;
   border: 1px solid #c19cfe;
   border-radius: 5px;
   height: 30px;
@@ -67,7 +67,7 @@
   font-family: "Roboto";
 }
 .active-link {
-  width: 110px;
+  width: 120px;
   background-color: #c19cfe;
   border-radius: 5px;
   height: 30px;
