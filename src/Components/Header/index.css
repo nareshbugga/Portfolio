@@ -37,7 +37,7 @@
   }
 }
 .nav-link {
-  width: 100px;
+  width: 110px;
   border: 1px solid #c19cfe;
   border-radius: 5px;
   height: 30px;
@@ -48,11 +48,11 @@
   color: #8d4dfd;
   font-size: 16px;
   font-family: "calibri";
-  font-weight: 500;
+  font-weight: 550;
 }
 @media screen and (max-width: 767px) {
   .nav-link {
-    font-size: 16px;
+    font-size: 17px;
   }
 }
 .text-link {
@@ -67,7 +67,7 @@
   font-family: "Roboto";
 }
 .active-link {
-  width: 100px;
+  width: 110px;
   background-color: #c19cfe;
   border-radius: 5px;
   height: 30px;
@@ -78,11 +78,11 @@
   color: #0f0f0f;
   font-size: 16px;
   font-family: "calibri";
-  font-weight: 500;
+  font-weight: 550;
 }
 @media screen and (max-width: 767px) {
   .active-link {
-    font-size: 16px;
+    font-size: 17px;
   }
   .text-link {
     margin: 15px 18px;
