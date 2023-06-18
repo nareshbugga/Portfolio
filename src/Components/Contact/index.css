@@ -19,32 +19,3 @@
     width: 100%;
   }
 }
-.icon-container {
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  margin: 20px 0px;
-}
-.heading {
-  font-family: "Arial";
-  font-style: normal;
-  font-weight: bold;
-  font-size: 23px;
-  color: #ffffff;
-}
-.icon {
-  width: 40px;
-  height: 40px;
-  color: #c19cfe;
-  margin-right: 25px;
-  border: 1px dashed #84d;
-  border-radius: 30px;
-  padding: 8px;
-}
-.name-icon {
-  color: #ffff;
-  font-size: 18px;
-  font-family: "Arial";
-  font-weight: 500;
-  font-style: normal;
-}

@@ -11,8 +11,6 @@ const Header = () => {
     pathname === "/skills" ? "active-link" : "nav-link";
   const projectActiveButton =
     pathname === "/projects" ? "active-link" : "nav-link";
-  const contactActiveButton =
-    pathname === "/contact" ? "active-link" : "nav-link";
   const achievementsActiveButton =
     pathname === "/achievements" ? "active-link" : "nav-link";
   return (
@@ -36,9 +34,6 @@ const Header = () => {
           </Link>
           <Link to="/achievements" className="text-link">
             <li className={`${achievementsActiveButton}`}>Achievements</li>
-          </Link>
-          <Link to="/contact" className="text-link">
-            <li className={`${contactActiveButton}`}>Contact</li>
           </Link>
         </ul>
       </div>
